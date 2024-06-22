@@ -1,6 +1,6 @@
 # 个人编程知识汇总
 
-## cplusplus
+## C++
 
 [C++ 知识汇总](/cplusplus/)
 
@@ -8,6 +8,14 @@
 
 [golang 知识汇总](/go/)
 
-## network
+## 算法
+
+[算法知识汇总](/algorithms/)
+
+## 操作系统
+
+[操作系统知识汇总](/computer_system/)
+
+## Network
 
 [网络知识汇总](/network/)
